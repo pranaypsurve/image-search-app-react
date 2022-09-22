@@ -63,9 +63,9 @@ function App() {
             <div className='col-md-4'>
               <h2 className='text-center pt-4'>Unsplash Image Search</h2>
             </div>
-            <div className='col-md-4'>
+            {/* <div className='col-md-4'>
               <h2 className='text-center pt-4'>{process.env.NODE_ENV}</h2>
-            </div>
+            </div> */}
           </div>
         </div>
         <div className='col-md-12 mb-4 text-center'>
